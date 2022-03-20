@@ -1,0 +1,1 @@
+enum modelOpen{continentsModel,countryModel}
